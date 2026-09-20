@@ -114,8 +114,9 @@ If you're interested in **Data Analytics, Technology, Business Intelligence, or 
 
 ### 💭 One Last Thing
 
-> **"Success is not about being better than everyone else.  
-> It's about being better than you were yesterday."**
+> **“Don’t lose hope. Only you know the struggles behind your journey.
+> You don’t owe everyone an explanation—some will judge, some will talk, and some will never understand.
+> Keep going quietly, keep growing, and let the life you build speak for itself.”**
 
 ---
 
