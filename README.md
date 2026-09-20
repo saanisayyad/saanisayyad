@@ -12,20 +12,6 @@ Beyond technology, I'm someone who enjoys **hosting events, organizing activitie
 
 ---
 
-## 🎯 What I'm Looking For
-
-I'm currently looking for opportunities in:
-
-- 📊 **Data Analytics**
-- 📈 **Business Intelligence**
-- 🧮 **SQL / Reporting / MIS**
-- 🤖 **Entry-Level Data Science**
-- ☁️ **Data Engineering — long-term career direction**
-
-I'm particularly interested in roles where I can combine **technical skills, analytical thinking, and business understanding** to solve real-world problems.
-
----
-
 ## 🛠️ My Technical Skills
 
 ### 📊 Data Analytics & BI
