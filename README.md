@@ -67,8 +67,6 @@ I believe there's more to life than screens and datasets. 😄
 
 When I'm free, you'll probably find me:
 
-🎤 Hosting or participating in events  
-💃 Dancing  
 🎬 Exploring new content  
 🎵 Listening to music  
 📚 Learning something new  
@@ -108,11 +106,9 @@ Every project I build is another opportunity to understand something I didn't kn
 
 If you're interested in **Data Analytics, Technology, Business Intelligence, or simply building something interesting**, feel free to connect!
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammadsaani-sayyad-4b7936236/)
 
-🌐 **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
-
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** saanisayyed@gmail.com
 
 ---
 
